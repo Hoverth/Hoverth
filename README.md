@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I’m a mature and enthusiastic university student wanting to get into the tech industry, specialising in software developement and systems administration.
 
 <!--
 **Hoverth/Hoverth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
