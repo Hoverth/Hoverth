@@ -4,9 +4,11 @@ I’m a mature and enthusiastic university student wanting to get into the tech 
 
  **My skills**:
 
- - 🐍 Python 📘 C/C++ 🦀 Rust 🐚 POSIX shell scripting 🕸️ HTML & CSS
- - 🔀 Git & GitHub 🧰 Docker Containers 🕸️ Nginx, Apache and Caddy web-servers 🆚 VS Code, ✈️ IntelliJ, ⌨️ Neovim and others
- - 🐂 GNU Core utilities 👻 SSH & tmux ⏲️ SystemD & Cron 🗃️ User management & file permissions 🐚 Bash, Zsh, and other POSIX-compatible shells
+🐍 Python | 📘 C/C++ | 🦀 Rust | 🐚 POSIX shell scripting | 🕸️ HTML, CSS & JS
+ 
+🔀 Git & GitHub | 🧰 Docker Containers | 🕸️ Nginx, Apache, Caddy | ⌨️ VS Code, IntelliJ, Neovim
+
+🐂 GNU Core utilities | 👻 SSH & tmux | ⏲️ SystemD | 🐚 Bash, Zsh, et.al. POSIX shells
 
 <!--
 **Hoverth/Hoverth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
