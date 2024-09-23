@@ -3,7 +3,7 @@
 I'm a enthusiastic second year university student wanting to grow in the tech industry, specialising in software development and systems administration. I'm passionate about open-source software, and sustainable technologies!
 
 
-🐍 Python | 📘 C/C++ | 🦀 Rust | 🐚 SH/BASH shell scripting | 🕸️ HTML, CSS & JS | 🐧 Linux & Unix-like systems <br>
+🐍 Python | 📘 C/C++ | 🦀 Rust | 🐚 Sh/Bash shell scripting | 🕸️ HTML, CSS & JS | 🐧 Linux & Unix-like systems <br>
 🔀 Git & GitHub | 🧰 Docker Containers | 🕸️ Nginx, Apache & Caddy | ⌨️ VS Code, IntelliJ, Neovim
 
 
