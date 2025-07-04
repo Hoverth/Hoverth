@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a enthusiastic second year university student wanting to grow in the tech industry, specialising in software development and systems administration. I'm passionate about open-source software, and sustainable technologies!
+I'm a enthusiastic third year (out of four) university student wanting to grow in the tech industry, specialising in software engineering and systems administration. I'm passionate about open-source software, and sustainable technologies!
 
 
 🐍 Python | 📘 C/C++ | 🦀 Rust | 🐚 Sh/Bash shell scripting | 🕸️ HTML, CSS & JS | 🐧 Linux & Unix-like systems <br>
